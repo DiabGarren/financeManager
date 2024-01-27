@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bu2/8aRZevx1YBROT03P63CPQ27OlevB1WTgrC4/51OVOt0QAIsp7AJtnpAuesieWe3gTt1HEkVivyhESV/n7A==",
+  "success": true,
+  "projectFilePath": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\CSE310\\financeManager\\financeManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

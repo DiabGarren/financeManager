@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "aaa",
+        "Colour": "White",
+        "Price": 60.0,
+        "Qty": 0
+    },
+    {
+        "Name": "bbb",
+        "Colour": "Black",
+        "Price": 100.0,
+        "Qty": 0
+    },
+    {
+        "Name": "name",
+        "Colour": "colour",
+        "Price": 10.0,
+        "Qty": 0
+    }
+]

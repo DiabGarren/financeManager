@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "aaa",
+    "Colour": "White",
+    "Price": 60.0,
+    "Qty": 0
+  },
+  {
+    "Name": "bbb",
+    "Colour": "Black",
+    "Price": 100.0,
+    "Qty": 0
+  },
+  {
+    "Name": "xyz",
+    "Colour": "Orange",
+    "Price": 62.0,
+    "Qty": 0
+  },
+  {
+    "Name": "abc",
+    "Colour": "blue",
+    "Price": 59.99,
+    "Qty": 0
+  },
+  {
+    "Name": "cba",
+    "Colour": "Purple",
+    "Price": 15.0,
+    "Qty": 0
+  }
+]
