@@ -8,8 +8,6 @@ I created this program as a way to further my understanding of C#.
 
 [Software Demo Video](https://youtu.be/pXb10grTNsw)
 
----
-
 # Development Environment
 
 ## Development Environment (IDE)
