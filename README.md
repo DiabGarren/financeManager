@@ -10,7 +10,7 @@ I created this program as a way to further my understanding of C#.
 
 # Development Environment
 
-## Development Environment (IDE)
+## IDE
 
 Visual Studio Code
 
