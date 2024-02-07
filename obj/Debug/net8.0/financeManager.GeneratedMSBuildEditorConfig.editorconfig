@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = financeManager
-build_property.ProjectDir = E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\
+build_property.ProjectDir = E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

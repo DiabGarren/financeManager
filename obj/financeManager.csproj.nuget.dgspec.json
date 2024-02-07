@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\CSE310\\financeManager\\financeManager.csproj": {}
+    "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\Sprint 1\\financeManager\\financeManager.csproj": {}
   },
   "projects": {
-    "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\CSE310\\financeManager\\financeManager.csproj": {
+    "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\Sprint 1\\financeManager\\financeManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\CSE310\\financeManager\\financeManager.csproj",
+        "projectUniqueName": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\Sprint 1\\financeManager\\financeManager.csproj",
         "projectName": "financeManager",
-        "projectPath": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\CSE310\\financeManager\\financeManager.csproj",
+        "projectPath": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\Sprint 1\\financeManager\\financeManager.csproj",
         "packagesPath": "C:\\Users\\garre\\.nuget\\packages\\",
-        "outputPath": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\CSE310\\financeManager\\obj\\",
+        "outputPath": "E:\\PublicDrive\\School\\BYU\\CSE 310 - Applied Programming\\Sprint 1\\financeManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garre\\AppData\\Roaming\\NuGet\\NuGet.Config"

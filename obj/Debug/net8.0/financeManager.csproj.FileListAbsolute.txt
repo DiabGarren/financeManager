@@ -16,3 +16,21 @@ E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\ob
 E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\financeManager.csproj.AssemblyReference.cache
 E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\CSE310\financeManager\obj\Debug\net8.0\financeManager.csproj.CopyComplete
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\bin\Debug\net8.0\financeManager.exe
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\bin\Debug\net8.0\financeManager.deps.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\bin\Debug\net8.0\financeManager.runtimeconfig.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\bin\Debug\net8.0\financeManager.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\bin\Debug\net8.0\financeManager.pdb
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.csproj.AssemblyReference.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.AssemblyInfoInputs.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.AssemblyInfo.cs
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.csproj.CoreCompileInputs.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.sourcelink.json
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.csproj.CopyComplete
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\refint\financeManager.dll
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.pdb
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\financeManager.genruntimeconfig.cache
+E:\PublicDrive\School\BYU\CSE 310 - Applied Programming\Sprint 1\financeManager\obj\Debug\net8.0\ref\financeManager.dll
